@@ -61,12 +61,17 @@ header{
 
 .toggle-header {
     margin: 20px;
+    margin-right: 100px;
 }
 
 table {
     border-collapse: collapse;
     width: 100%;
-    margin: 35px 0px 20px 20px;
+    margin: 35px 0px 20px 0px;
+}
+
+.tables {
+    display: flex;
 }
 
 th {
